@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: false,
+  API_KEY: "ENVIRONMENT PROD",
+  BACKEND_URL: "http://localhost:8008"
 };
